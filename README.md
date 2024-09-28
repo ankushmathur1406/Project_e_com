@@ -19,8 +19,3 @@ A Ecommerce Website made with React.js Framework.
 
 
 
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
-
-
