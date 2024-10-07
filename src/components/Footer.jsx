@@ -10,7 +10,6 @@ const Footer = () => {
               <a  href="" className="text-decoration-underline text-dark fs-5" target="_blank" rel="noreferrer"></a>
             </p>
             <a className="text-dark fs-4"  target="_blank" rel="noreferrer">
-              <i className="fa fa-github"></i>
             </a>
           </div>
         </div>
